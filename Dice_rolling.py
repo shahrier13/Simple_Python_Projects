@@ -1,6 +1,6 @@
 import random
 
-print("Dice Rolling Stimulator 1.0")
+print("Dice Rolling Stimulator")
 
 while True:
     number = random.randint(1, 6)
