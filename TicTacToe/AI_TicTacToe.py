@@ -123,7 +123,7 @@ def main():
         print("")
 
     if isBoardFull(board):
-        print("Tie game")
+        print("The Game is Tied!")
 
 
 
