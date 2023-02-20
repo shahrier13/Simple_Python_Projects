@@ -49,5 +49,5 @@ while True:
     if ext == "Y":
         x = input("Press Enter to roll again")
     else:
-        break;
+        break
 
