@@ -2,7 +2,7 @@ import random
 
 def hangMan():
     validLetters = 'abcdefghijklmnopqrstuvwxyz'
-    in_words = ["gandu", "pandu", "cornhub", "pick", "sixty", "tenis"]
+    in_words = ["gandu", "pandu", "cornhub", "pick", "sixty", "tenis", "Dope"]
     word = random.choice(in_words)
     turns = 10
     guessmade = ''
